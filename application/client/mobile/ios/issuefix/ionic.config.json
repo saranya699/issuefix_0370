@@ -1,0 +1,7 @@
+{
+  "name": "issuefix",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
